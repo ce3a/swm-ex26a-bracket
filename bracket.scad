@@ -2,7 +2,7 @@
 $fn = 500;  // smoothness
 
 h = 7;      // cylinder hight
-r = 27.6;   // cylinder radius
+r = 27.1;   // cylinder radius
 s = 0.5;    // cylinder "conicalness"
 t = 2.0;    // cyclinder wall thickness
 d = 12.0;   // bridge width
